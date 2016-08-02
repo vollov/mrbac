@@ -1,0 +1,24 @@
+{
+  "name": "mrbac",
+  "version": "0.0.2",
+  "description": "role based access control with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui bdd -R spec test/**/test_*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vollov/mrbac.git"
+  },
+  "keywords": [
+    "mongoose",
+    "RBAC",
+    "authorization"
+  ],
+  "author": "dike.zhang@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vollov/mrbac/issues"
+  },
+  "homepage": "https://github.com/vollov/mrbac#readme"
+}
