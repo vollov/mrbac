@@ -20,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/vollov/mrbac/issues"
   },
-  "homepage": "https://github.com/vollov/mrbac#readme"
+  "homepage": "https://github.com/vollov/mrbac#readme",
+  "dependencies": {
+    "express-jwt": "^3.4.0",
+    "jsonwebtoken": "^7.0.1",
+    "bluebird": "^3.4.1",
+    "underscore": "^1.8.3",
+    "mongoose": "^4.5.3"
+  },
+  "devDependencies": {
+    "should": "~9.0.2",
+    "mocha": "~2.5.3"
+  }
 }
